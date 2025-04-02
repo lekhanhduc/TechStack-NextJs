@@ -1,1 +1,1 @@
-export const API_BASE_URL = "https://13.215.205.179:443";
+export const API_BASE_URL = "https://ec2-13-215-205-179.ap-southeast-1.compute.amazonaws.com:443";
